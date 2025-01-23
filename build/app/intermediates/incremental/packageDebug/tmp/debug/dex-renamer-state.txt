@@ -1,0 +1,13 @@
+#Thu Jan 23 17:07:00 IST 2025
+base.0=/Users/gijo/Documents/ai_chat/g_chat/build/app/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.1=/Users/gijo/Documents/ai_chat/g_chat/build/app/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.2=/Users/gijo/Documents/ai_chat/g_chat/build/app/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex
+base.3=/Users/gijo/Documents/ai_chat/g_chat/build/app/intermediates/dex/debug/mergeProjectDexDebug/6/classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=1/classes.dex
+path.3=6/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
+renamed.3=classes4.dex

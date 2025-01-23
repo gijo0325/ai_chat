@@ -1,0 +1,1 @@
+ /Users/gijo/Documents/ai_chat/g_chat/.dart_tool/flutter_gen/gen_l10n/app_localizations_en.dart /Users/gijo/Documents/ai_chat/g_chat/.dart_tool/flutter_gen/gen_l10n/app_localizations.dart:  /Users/gijo/Documents/ai_chat/g_chat/l10n.yaml /Users/gijo/Documents/ai_chat/g_chat/lib/src/localization/app_en.arb
